@@ -2,7 +2,7 @@
 #continue to puts the phrase "Wingardium Leviosa" 
 #while our levitation force is less than 10. 
 #Every time we puts that phrase, we should increment our levitation force by 1
-
+require "pry"
 def using_while
   levitation_force = 6
 	
